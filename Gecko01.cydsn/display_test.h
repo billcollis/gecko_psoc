@@ -1,0 +1,19 @@
+/* ========================================
+ *
+ * Copyright YOUR COMPANY, THE YEAR
+ * All Rights Reserved
+ * UNPUBLISHED, LICENSED SOFTWARE.
+ *
+ * CONFIDENTIAL AND PROPRIETARY INFORMATION
+ * WHICH IS THE PROPERTY OF your company.
+ *
+ * ========================================
+*/
+
+#include "cytypes.h"
+#include "ssd1306.h"
+
+void scroll_psoc(void);
+void display_test(void);
+
+/* [] END OF FILE */
