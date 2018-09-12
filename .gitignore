@@ -1,3 +1,14 @@
+#PSOC exclusions
+**/codegentemp
+**/CortexM3
+**/DDS*
+**/Export
+**/Generate*
+**/BUILD.log
+
+
+
+
 # Prerequisites
 *.d
 
